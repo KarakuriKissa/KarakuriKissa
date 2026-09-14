@@ -1,7 +1,7 @@
 # 絡繰喫茶 Apps & Tools
 
-これまでに公開したアプリとDCCツールのダウンロード入口です。  
-各リンクは常にGitHub Releasesの最新版を参照します。
+これまでに配布したアプリとDCCツールのダウンロード入口です。  
+公開版の直接リンクは常にGitHub Releasesの最新版を参照します。開発版は説明に従ってください。
 
 ## すぐダウンロード
 
@@ -11,6 +11,7 @@
 | **TM Tools for Blender** | Blender制作ツール一式 | [インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_blender.zip) | [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |
+| **Soramado（開発版）** | 今夜の空を表示する星座盤 | [Android版APK](https://github.com/KarakuriKissa/soramado-builds/releases/download/android-preview-camera-20260910-083904/app-debug.apk) ※GitHubログインが必要 | [開発版リリース一覧](https://github.com/KarakuriKissa/soramado-builds/releases) ※非公開 |
 | **PetaMemo** | デスクトップ付箋・タスク管理 | [Windowsセットアップ版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Setup.exe) ・ [ポータブル版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Portable.exe) | [Mac版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Mac.dmg) ・ [リリース一覧](https://github.com/KarakuriKissa/sticky-todo/releases) |
 
 ## TM Tools for Maya の更新

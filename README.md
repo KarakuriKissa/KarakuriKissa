@@ -7,25 +7,38 @@
 
 | 製品 | 用途 | Windowsで使うファイル | 更新履歴・ほかの形式 |
 |---|---|---|---|
-| **TM Tools for Maya** | Maya制作ツール一式 | [旧版を最新版へ更新する `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [新規インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_maya.zip) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
-| **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [更新用データ](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_blender.zip) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
+| **TM Tools for Maya** | Maya制作ツール一式 | [初回・旧版からの導入用 `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
+| **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [Blender専用ページ](https://karakuri-tools.karakurikissa.workers.dev/blender.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |
 | **Toolporter** | アプリ・DCC・Windows設定をPC間で安全に引っ越す | [WindowsポータブルZIP](https://github.com/KarakuriKissa/Toolporter-releases/releases/latest/download/Toolporter_Windows_Portable.zip) | [リリース一覧](https://github.com/KarakuriKissa/Toolporter-releases/releases) |
 | **Soramado（開発版）** | 今夜の空を表示する星座盤 | [Android版APK](https://github.com/KarakuriKissa/soramado-builds/releases/download/android-preview-camera-20260910-083904/app-debug.apk) ※GitHubログインが必要 | [開発版リリース一覧](https://github.com/KarakuriKissa/soramado-builds/releases) ※非公開 |
 | **PetaMemo** | デスクトップ付箋・タスク管理 | [Windowsセットアップ版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Setup.exe) ・ [ポータブル版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Portable.exe) | [Mac版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Mac.dmg) ・ [リリース一覧](https://github.com/KarakuriKissa/sticky-todo/releases) |
 
-## TM Tools for Maya の更新
+## TM Tools for Maya
 
-初回だけ `Update_TM_Tools.py` をダウンロードし、Mayaの3D画面へドラッグ＆ドロップします。完了後にMayaを再起動してください。
+### 初回導入・旧版からの更新
 
-次回からはMayaの **TM Tools → TM Toolsを更新... → 今すぐ更新** だけで更新できます。
+[`Update_TM_Tools.py` をダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py)し、Mayaの3D画面へドラッグ＆ドロップします。初めてTM Toolsを入れるPCにも使えます。完了後にMayaを再起動してください。
 
-## TM Tools for Blender のインストール・更新
+`tm_tools_maya.zip` はこのスクリプトとMaya内の更新機能が取得する本体データです。初回に手動で展開する必要はありません。
 
-初回は **初回インストール用ZIP** をダウンロードし、ZIPを展開せずにBlenderの **編集 → プリファレンス → アドオン → Install from Disk** で指定します。**TM Tools Installer** を有効にするとツール一式を取得します。完了表示後、Blenderを再起動してください。
+### 次回以降の更新
 
-以後は3Dビューのサイドバー（Nキー）→ **tm System → tm Updater → Update tm Tools** で更新します。`tm_tools_blender.zip` は更新用のデータです。すでにこのZIPをBlenderへ指定した場合は、アドオン一覧で **TM Tools (Install All)** を有効にすると、コピー済みのツールをまとめて使えます。
+Mayaの **TM Tools → TM Toolsを更新... → 今すぐ更新** を使います。
+
+## TM Tools for Blender
+
+### 初回導入
+
+1. [初回インストール用 `TM_Tools_Blender_Install.zip` をダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip)する。
+2. ZIPを展開せず、Blenderの **編集 → プリファレンス → アドオン → Install from Disk** で指定する。
+3. アドオン一覧の **TM Tools Installer** を有効にする。ツール一式のダウンロードと導入が始まる。
+4. 完了後にBlenderを再起動する。
+
+### 次回以降の更新
+
+3Dビューのサイドバー（Nキー）→ **tm System → tm Updater → Update tm Tools** を使います。`tm_tools_blender.zip` は初回用ではなく、InstallerとUpdaterが取得するツール本体です。Blenderの **Install from Disk** に選ぶファイルは `TM_Tools_Blender_Install.zip` です。
 
 ## GitHubトップからこの一覧を開く
 

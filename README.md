@@ -8,7 +8,7 @@
 | 製品 | 用途 | Windowsで使うファイル | 更新履歴・ほかの形式 |
 |---|---|---|---|
 | **TM Tools for Maya** | Maya制作ツール一式 | [旧版を最新版へ更新する `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [新規インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_maya.zip) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
-| **TM Tools for Blender** | Blender制作ツール一式 | [インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_blender.zip) | [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
+| **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [更新用データ](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/tm_tools_blender.zip) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |
 | **Toolporter** | アプリ・DCC・Windows設定をPC間で安全に引っ越す | [WindowsポータブルZIP](https://github.com/KarakuriKissa/Toolporter-releases/releases/latest/download/Toolporter_Windows_Portable.zip) | [リリース一覧](https://github.com/KarakuriKissa/Toolporter-releases/releases) |
@@ -20,6 +20,12 @@
 初回だけ `Update_TM_Tools.py` をダウンロードし、Mayaの3D画面へドラッグ＆ドロップします。完了後にMayaを再起動してください。
 
 次回からはMayaの **TM Tools → TM Toolsを更新... → 今すぐ更新** だけで更新できます。
+
+## TM Tools for Blender のインストール・更新
+
+初回は **初回インストール用ZIP** をダウンロードし、ZIPを展開せずにBlenderの **編集 → プリファレンス → アドオン → Install from Disk** で指定します。**TM Tools Installer** を有効にするとツール一式を取得します。完了表示後、Blenderを再起動してください。
+
+以後は3Dビューのサイドバー（Nキー）→ **tm System → tm Updater → Update tm Tools** で更新します。`tm_tools_blender.zip` は更新用のデータです。すでにこのZIPをBlenderへ指定した場合は、アドオン一覧で **TM Tools (Install All)** を有効にすると、コピー済みのツールをまとめて使えます。
 
 ## GitHubトップからこの一覧を開く
 

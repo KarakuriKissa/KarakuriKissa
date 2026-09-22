@@ -15,6 +15,15 @@
 | **Soramado（開発版）** | 今夜の空を表示する星座盤 | [Android版APK](https://github.com/KarakuriKissa/soramado-builds/releases/download/android-preview-camera-20260910-083904/app-debug.apk) ※GitHubログインが必要 | [開発版リリース一覧](https://github.com/KarakuriKissa/soramado-builds/releases) ※非公開 |
 | **PetaMemo** | デスクトップ付箋・タスク管理 | [Windowsセットアップ版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Setup.exe) ・ [ポータブル版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Portable.exe) | [Mac版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Mac.dmg) ・ [リリース一覧](https://github.com/KarakuriKissa/sticky-todo/releases) |
 
+## ブラウザで使うツール
+
+| 製品 | 用途 | 最新版を開く |
+|---|---|---|
+| **3D文字ジェネレーター** | 文字の3Dモデルを作る | [Webツールを開く](https://fontgen.karakurikissa.workers.dev/) |
+| **3D 福笑いジェネレーター β** | 顔パーツと登録したSTL・OBJを組み合わせ、STLを書き出す | [Webツールを開く](https://fontgen.karakurikissa.workers.dev/objects/) |
+
+Webツールはダウンロード不要です。[アプリとWebツールの一覧](https://karakuri-apps.karakurikissa.workers.dev/)で公開中のツールを確認できます。
+
 ## TM Tools for Maya
 
 ### 初回導入・旧版からの更新

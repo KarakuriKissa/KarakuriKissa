@@ -7,7 +7,7 @@
 
 | 製品 | 用途 | Windowsで使うファイル | 更新履歴・ほかの形式 |
 |---|---|---|---|
-| **TM Tools for Maya** | Maya制作ツール一式 | [初回・旧版からの導入用 `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
+| **TM Tools for Maya** | Maya制作ツール一式 | [最初の1回・旧版からの導入用 `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
 | **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [Blender専用ページ](https://karakuri-tools.karakurikissa.workers.dev/blender.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |

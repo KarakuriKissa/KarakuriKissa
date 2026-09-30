@@ -7,7 +7,7 @@
 
 | 製品 | 用途 | Windowsで使うファイル | 更新履歴・ほかの形式 |
 |---|---|---|---|
-| **TM Tools for Maya** | Maya制作ツール一式 | [最初の1回・旧版からの導入用 `Update_TM_Tools.py`](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
+| **TM Tools for Maya** | Maya制作ツール一式 | [更新ZIPをダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Maya_Update.zip) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
 | **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [Blender専用ページ](https://karakuri-tools.karakurikissa.workers.dev/blender.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |
@@ -28,9 +28,9 @@ Webツールはダウンロード不要です。[アプリとWebツールの一�
 
 ### 初回導入・旧版からの更新
 
-[`Update_TM_Tools.py` をダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/Update_TM_Tools.py)し、Mayaの3D画面へドラッグ＆ドロップします。初めてTM Toolsを入れるPCにも使えます。完了後にMayaを再起動してください。
+[Maya更新ZIPをダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Maya_Update.zip)して展開し、中の `Update_TM_Tools.py` をMayaの3D画面へドラッグ＆ドロップします。初めてTM Toolsを入れるPCにも使えます。完了後にMayaを再起動してください。ZIP内の3ファイルは同じフォルダに置いたまま使います。
 
-`tm_tools_maya.zip` はこのスクリプトとMaya内の更新機能が取得する本体データです。初回に手動で展開する必要はありません。
+`tm_tools_maya.zip` は更新対象の本体です。これを単独でMayaへドラッグする必要はありません。
 
 ### 次回以降の更新
 

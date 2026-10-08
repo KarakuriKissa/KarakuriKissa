@@ -12,8 +12,10 @@
 | **PicoPin** | 画面キャプチャ・注釈 | [PicoPin.exe](https://github.com/KarakuriKissa/PicoPin-releases/releases/latest/download/PicoPin.exe) | [リリース一覧](https://github.com/KarakuriKissa/PicoPin-releases/releases) |
 | **PokeShelf** | アプリ・フォルダランチャー | [PokeShelf.exe](https://github.com/KarakuriKissa/PokeShelf-releases/releases/latest/download/PokeShelf.exe) | [リリース一覧](https://github.com/KarakuriKissa/PokeShelf-releases/releases) |
 | **Toolporter** | アプリ・DCC・Windows設定をPC間で安全に引っ越す | [WindowsポータブルZIP](https://github.com/KarakuriKissa/Toolporter-releases/releases/latest/download/Toolporter_Windows_Portable.zip) | [リリース一覧](https://github.com/KarakuriKissa/Toolporter-releases/releases) |
+| **Explorer Session Recorder** | 開いているExplorerフォルダーの自動記録・再表示 | [Windows ZIP](https://github.com/KarakuriKissa/ExplorerSessionRecorder-releases/releases/latest/download/ExplorerSessionRecorder.zip) | [リリース一覧](https://github.com/KarakuriKissa/ExplorerSessionRecorder-releases/releases) |
 | **Soramado（開発版）** | 今夜の空を表示する星座盤 | [Android版APK](https://github.com/KarakuriKissa/soramado-builds/releases/download/android-preview-camera-20260910-083904/app-debug.apk) ※GitHubログインが必要 | [開発版リリース一覧](https://github.com/KarakuriKissa/soramado-builds/releases) ※非公開 |
 | **PetaMemo** | デスクトップ付箋・タスク管理 | [Windowsセットアップ版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Setup.exe) ・ [ポータブル版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Portable.exe) | [Mac版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Mac.dmg) ・ [リリース一覧](https://github.com/KarakuriKissa/sticky-todo/releases) |
+
 
 ## ブラウザで使うツール
 

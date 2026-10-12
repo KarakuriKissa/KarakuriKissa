@@ -5,7 +5,7 @@
 
 ## すぐダウンロード
 
-| 製品 | 用途 | Windowsで使うファイル | 更新履歴・ほかの形式 |
+| 製品 | 用途 | ダウンロード | 更新履歴・ほかの形式 |
 |---|---|---|---|
 | **TM Tools for Maya** | Maya制作ツール一式 | [更新ZIPをダウンロード](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Maya_Update.zip) | [Maya専用ページ](https://karakuri-tools.karakurikissa.workers.dev/maya.html) ・ [リリース一覧](https://github.com/KarakuriKissa/TM-Tools-Releases/releases) |
 | **TM Tools for Blender** | Blender制作ツール一式 | [初回インストール用ZIP](https://github.com/KarakuriKissa/TM-Tools-Releases/releases/latest/download/TM_Tools_Blender_Install.zip) | [Blender専用ページ](https://karakuri-tools.karakurikissa.workers.dev/blender.html) ・ [更新履歴](https://karakuri-tools.karakurikissa.workers.dev/releases.html) |
@@ -15,6 +15,7 @@
 | **Toolporter** | アプリ・DCC・Windows設定をPC間で安全に引っ越す | [WindowsポータブルZIP](https://github.com/KarakuriKissa/Toolporter-releases/releases/latest/download/Toolporter_Windows_Portable.zip) | [リリース一覧](https://github.com/KarakuriKissa/Toolporter-releases/releases) |
 | **Explorer Session Recorder** | 開いているExplorerフォルダーの自動記録・再表示 | [Windows ZIP](https://github.com/KarakuriKissa/ExplorerSessionRecorder-releases/releases/latest/download/ExplorerSessionRecorder.zip) | [リリース一覧](https://github.com/KarakuriKissa/ExplorerSessionRecorder-releases/releases) |
 | **Soramado（開発版）** | 今夜の空を表示する星座盤 | [Android版APK](https://github.com/KarakuriKissa/soramado-builds/releases/download/android-preview-camera-20260910-083904/app-debug.apk) ※GitHubログインが必要 | [開発版リリース一覧](https://github.com/KarakuriKissa/soramado-builds/releases) ※非公開 |
+| **すぐメモ / Quick Memo（所有者限定試用版）** | 広告なしで書けるAndroidメモ帳 | [Android試用APK](https://github.com/KarakuriKissa/QuickMemo-builds/releases/download/v1.0.0-owner-preview.1/QuickMemo-Android-owner-preview-1.0.0-1.apk) ※所有者のGitHubログインが必要 | [非公開リリース一覧](https://github.com/KarakuriKissa/QuickMemo-builds/releases) |
 | **PetaMemo** | デスクトップ付箋・タスク管理 | [Windowsセットアップ版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Setup.exe) ・ [ポータブル版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Windows-Portable.exe) | [Mac版](https://github.com/KarakuriKissa/sticky-todo/releases/latest/download/PetaMemo-Mac.dmg) ・ [リリース一覧](https://github.com/KarakuriKissa/sticky-todo/releases) |
 
 
